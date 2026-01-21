@@ -1,1 +1,2 @@
-This is modifing using js.
+jana=int(input('number'))
+print('jana')
