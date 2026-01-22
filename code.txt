@@ -1,7 +1,3 @@
 git branch created.
-<<<<<<< HEAD
 hi i saw you msg.i pushed back to you.hello
-=======
-hi i saw you msg.i pushed back to you.
-hi hello.
->>>>>>> gitbranch1
+
